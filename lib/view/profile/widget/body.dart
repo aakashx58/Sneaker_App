@@ -61,10 +61,7 @@ class _BodyProfileState extends State<BodyProfile> {
           Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text(
-                "Amir.H Bayat",
-                style: AppThemes.profileDevName
-              ),
+              Text("Aakash Rajbanshi", style: AppThemes.profileDevName),
               Text(
                 "Flutter Developer",
                 style: TextStyle(
